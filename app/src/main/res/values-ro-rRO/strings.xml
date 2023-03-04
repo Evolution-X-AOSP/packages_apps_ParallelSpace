@@ -20,11 +20,11 @@
     <string name="new_space_dialog_title">Crează spațiu nou</string>
     <string name="new_space_dialog_name_hint">Numele spațiului</string>
     <string name="new_space_title">Spațiu paralel nou</string>
-    <string name="new_space_subtitle">Atingeți pentru a crea un spațiu paralel</string>
+    <string name="new_space_subtitle">Atinge pentru a crea un spațiu paralel</string>
     <string name="remove_space_dialog_title">Eliminare spațiu</string>
-    <string name="remove_space_dialog_message">Sigur doriți să eliminați acest spațiu? Veți pierde toate datele stocate în acesta.</string>
+    <string name="remove_space_dialog_message">Sigur dorești să elimini acest spațiu? Vei pierde toate datele stocate în acesta.</string>
     <string name="default_space_name">Spațiu</string>
     <string name="space_settings">Setări spațiu</string>
-    <string name="space_settings_enable_gms">Activați serviciile Google</string>
+    <string name="space_settings_enable_gms">Activează serviciile Google</string>
     <string name="close">Închidere</string>
 </resources>
