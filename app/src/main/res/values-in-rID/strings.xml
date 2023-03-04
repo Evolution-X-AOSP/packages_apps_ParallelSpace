@@ -15,12 +15,12 @@
   limitations under the License.
 -->
 <resources>
-    <string name="app_name">Ruang Kedua</string>
+    <string name="app_name">Ruang Paralel</string>
     <string name="new_space_tab">Baru</string>
     <string name="new_space_dialog_title">Buat ruang baru</string>
     <string name="new_space_dialog_name_hint">Nama ruang</string>
-    <string name="new_space_title">Ruang kedua baru</string>
-    <string name="new_space_subtitle">Ketuk di sini untuk membuat ruang baru</string>
+    <string name="new_space_title">Ruang paralel baru</string>
+    <string name="new_space_subtitle">Ketuk untuk membuat ruang paralel</string>
     <string name="remove_space_dialog_title">Hapus ruang</string>
     <string name="remove_space_dialog_message">Apakah Anda yakin akan menghapus ruang ini? Anda akan kehilangan semua data yang tersimpan di dalamnya.</string>
     <string name="default_space_name">Ruang</string>
