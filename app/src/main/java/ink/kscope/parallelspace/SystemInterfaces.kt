@@ -85,7 +85,7 @@ class SystemInterfaces {
             return Settings.Secure.getIntForUser(
                 context.contentResolver,
                 Settings.Secure.GMS_ENABLED,
-                1,
+                0,
                 userId
             ) == 1
         }
